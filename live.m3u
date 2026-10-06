@@ -3,12 +3,20 @@
 http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111211/1.m3u8
 #EXTINF:-1 tvg-name="CCTV-2" group-title="央视",CCTV-2
 http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111001/1.m3u8
+#EXTINF:-1 tvg-name="CCTV-3" group-title="央视",CCTV-3
+http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111117/1.m3u8
 #EXTINF:-1 tvg-name="CCTV-4" group-title="央视",CCTV-4
 http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111102/1.m3u8
+#EXTINF:-1 tvg-name="CCTV-5" group-title="央视",CCTV-5
+http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111118/1.m3u8
 #EXTINF:-1 tvg-name="CCTV5+" group-title="央视",CCTV5+
 http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111103/1.m3u8
+#EXTINF:-1 tvg-name="CCTV-6" group-title="央视",CCTV-6
+http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111119/1.m3u8
 #EXTINF:-1 tvg-name="CCTV-7" group-title="央视",CCTV-7
 http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111007/1.m3u8
+#EXTINF:-1 tvg-name="CCTV-8" group-title="央视",CCTV-8
+http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111120/1.m3u8
 #EXTINF:-1 tvg-name="CCTV-9" group-title="央视",CCTV-9
 http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111009/1.m3u8
 #EXTINF:-1 tvg-name="CCTV-10" group-title="央视",CCTV-10
@@ -101,6 +109,8 @@ http://ltccq.cqa.bcs.ottcn.com/000000001666/1000000005000266005/1.m3u8
 http://ltccq.cqa.bcs.ottcn.com/000000001666/1000000005000266006/1.m3u8
 #EXTINF:-1 tvg-name="延边卫视" group-title="卫视",延边卫视
 http://ltccq.cqa.bcs.ottcn.com/000000001666/1000000005000266008/1.m3u8
+#EXTINF:-1 tvg-name="三沙卫视" group-title="卫视",三沙卫视
+http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111116/1.m3u8
 #EXTINF:-1 tvg-name="超级综艺" group-title="影视剧场",超级综艺
 http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111002/1.m3u8
 #EXTINF:-1 tvg-name="超级电影" group-title="影视剧场",超级电影
@@ -167,6 +177,20 @@ http://ltccq.cqa.bcs.ottcn.com/000000001666/6000000006000220630/1.m3u8
 http://ltccq.cqa.bcs.ottcn.com/000000001666/6000000006000280630/1.m3u8
 #EXTINF:-1 tvg-name="睛彩青少" group-title="少儿卡通",睛彩青少
 http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111101/1.m3u8
+#EXTINF:-1 tvg-name="北京卡酷少儿" group-title="少儿卡通",北京卡酷少儿
+http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111045/1.m3u8
+#EXTINF:-1 tvg-name="动画频道1" group-title="少儿卡通",动画频道1
+http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111233/1.m3u8
+#EXTINF:-1 tvg-name="动画频道2" group-title="少儿卡通",动画频道2
+http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111236/1.m3u8
+#EXTINF:-1 tvg-name="动画频道3" group-title="少儿卡通",动画频道3
+http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111237/1.m3u8
+#EXTINF:-1 tvg-name="动画频道4" group-title="少儿卡通",动画频道4
+http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111238/1.m3u8
+#EXTINF:-1 tvg-name="动画频道5" group-title="少儿卡通",动画频道5
+http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111239/1.m3u8
+#EXTINF:-1 tvg-name="动画频道6" group-title="少儿卡通",动画频道6
+http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111240/1.m3u8
 #EXTINF:-1 tvg-name="超级体育" group-title="体育",超级体育
 http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111004/1.m3u8
 #EXTINF:-1 tvg-name="哒啵赛事" group-title="体育",哒啵赛事
@@ -183,6 +207,8 @@ http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111107/1.m3u8
 http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111093/1.m3u8
 #EXTINF:-1 tvg-name="睛彩竞技" group-title="体育",睛彩竞技
 http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111094/1.m3u8
+#EXTINF:-1 tvg-name="哒啵电竞" group-title="体育",哒啵电竞
+http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111112/1.m3u8
 #EXTINF:-1 tvg-name="军事评论" group-title="纪实科教",军事评论
 http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111068/1.m3u8
 #EXTINF:-1 tvg-name="北京纪实" group-title="纪实科教",北京纪实
@@ -211,6 +237,12 @@ http://ltccq.cqa.bcs.ottcn.com/000000001666/1000000006000280003/1.m3u8
 http://ltccq.cqa.bcs.ottcn.com/000000001666/1000000006000280004/1.m3u8
 #EXTINF:-1 tvg-name="CGTN-英文" group-title="国际",CGTN-英文
 http://ltccq.cqa.bcs.ottcn.com/000000001666/1000000002000009569/1.m3u8
+#EXTINF:-1 tvg-name="凤凰卫视中文台" group-title="国际",凤凰卫视中文台
+http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111124/1.m3u8
+#EXTINF:-1 tvg-name="凤凰卫视香港台" group-title="国际",凤凰卫视香港台
+http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111125/1.m3u8
+#EXTINF:-1 tvg-name="凤凰卫视资讯台" group-title="国际",凤凰卫视资讯台
+http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111126/1.m3u8
 #EXTINF:-1 tvg-name="怡伴健康" group-title="生活健康",怡伴健康
 http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111071/1.m3u8
 #EXTINF:-1 tvg-name="家电食品" group-title="生活健康",家电食品
@@ -241,9 +273,43 @@ http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111084/1.m3u8
 http://ltccq.cqa.bcs.ottcn.com/000000001666/6000000006000250630/1.m3u8
 #EXTINF:-1 tvg-name="睛彩广场舞" group-title="生活文化",睛彩广场舞
 http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111111/1.m3u8
+#EXTINF:-1 tvg-name="购物频道" group-title="生活文化",购物频道
+http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111113/1.m3u8
+#EXTINF:-1 tvg-name="南方购物" group-title="生活文化",南方购物
+http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111114/1.m3u8
+#EXTINF:-1 tvg-name="央广购物" group-title="生活文化",央广购物
+http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111115/1.m3u8
+#EXTINF:-1 tvg-name="好享购物" group-title="生活文化",好享购物
+http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111184/1.m3u8
+#EXTINF:-1 tvg-name="优购物" group-title="生活文化",优购物
+http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111185/1.m3u8
+#EXTINF:-1 tvg-name="东方购物" group-title="生活文化",东方购物
+http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111186/1.m3u8
 #EXTINF:-1 tvg-name="央视4K" group-title="4K超清",央视4K
 http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111130/1.m3u8
 #EXTINF:-1 tvg-name="CCTV-16 4K" group-title="4K超清",CCTV-16 4K
 http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111092/1.m3u8
 #EXTINF:-1 tvg-name="4K专区" group-title="4K超清",4K专区
 http://ltccq.cqa.bcs.ottcn.com/000000001666/6000000003000004748/1.m3u8
+#EXTINF:-1 tvg-name="CCTV-4 中文国际(H264)" group-title="备用线路",CCTV-4 中文国际(H264)
+http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111003/1.m3u8
+#EXTINF:-1 tvg-name="CCTV5+(H264)" group-title="备用线路",CCTV5+(H264)
+http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111005/1.m3u8
+#EXTINF:-1 tvg-name="重庆卫视(H264)" group-title="备用线路",重庆卫视(H264)
+http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111017/1.m3u8
+#EXTINF:-1 tvg-name="浙江卫视(H264)" group-title="备用线路",浙江卫视(H264)
+http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111020/1.m3u8
+#EXTINF:-1 tvg-name="江苏卫视(H264)" group-title="备用线路",江苏卫视(H264)
+http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111021/1.m3u8
+#EXTINF:-1 tvg-name="湖南卫视(H264)" group-title="备用线路",湖南卫视(H264)
+http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111023/1.m3u8
+#EXTINF:-1 tvg-name="东方卫视(H264)" group-title="备用线路",东方卫视(H264)
+http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111024/1.m3u8
+#EXTINF:-1 tvg-name="东南卫视(H264)" group-title="备用线路",东南卫视(H264)
+http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111028/1.m3u8
+#EXTINF:-1 tvg-name="CCTV-1(H264)" group-title="备用线路",CCTV-1(H264)
+http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111121/1.m3u8
+#EXTINF:-1 tvg-name="CCTV-5(H264)" group-title="备用线路",CCTV-5(H264)
+http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111122/1.m3u8
+#EXTINF:-1 tvg-name="CCTV-13(H264)" group-title="备用线路",CCTV-13(H264)
+http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111123/1.m3u8
